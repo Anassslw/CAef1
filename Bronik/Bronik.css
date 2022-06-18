@@ -6,6 +6,12 @@ body {
     margin: 0px;
     background-image: linear-gradient(to right, rgb(247, 169, 169), rgb(241, 203, 145));
 }
+h1{
+    font-size: 30px;
+    padding-top: 40px;
+    color: rgb(65, 41, 9);
+    text-decoration: none;
+}
 
 header{
     position: fixed;
